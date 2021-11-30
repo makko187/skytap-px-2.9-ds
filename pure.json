@@ -4,5 +4,13 @@
       "MgmtEndPoint": "10.0.0.11",
       "APIToken": "f9f14d97-c52e-12e0-e670-877c49516d51"
     }
-  ]
+  ],
+    "FlashBlades": [
+        {
+            "MgmtEndPoint": "10.255.8.20",
+            "APIToken": "T-6958c8f4-c75e-4e27-bd03-f8e495631ee9",
+            "NFSEndPoint": "10.255.8.120"
+        }
+    ]
 }
+
